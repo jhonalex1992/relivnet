@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relivnet.infraestructure.api", "relivnet.infraestructure.api\relivnet.infraestructure.api.csproj", "{426C1F10-0A41-4436-A00F-994507444F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relivnet.domain", "relivnet.domain\relivnet.domain.csproj", "{890E9B7F-6411-494A-887C-DD11090B8B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relivnet.infraestructure.util", "relivnet.infraestructure.util\relivnet.infraestructure.util.csproj", "{7696731B-363D-4034-A127-C26DDADC2EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relivnet.infraestructure.azsql", "relivnet.infraestructure.azsql\relivnet.infraestructure.azsql.csproj", "{46CCCF83-49BF-4D57-BAA6-1E462E41C7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relivnet.infraestructure.application", "relivnet.infraestructure.application\relivnet.infraestructure.application.csproj", "{82F2FD25-B29F-4A90-9126-9922E1934CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426C1F10-0A41-4436-A00F-994507444F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426C1F10-0A41-4436-A00F-994507444F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426C1F10-0A41-4436-A00F-994507444F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426C1F10-0A41-4436-A00F-994507444F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890E9B7F-6411-494A-887C-DD11090B8B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890E9B7F-6411-494A-887C-DD11090B8B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890E9B7F-6411-494A-887C-DD11090B8B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890E9B7F-6411-494A-887C-DD11090B8B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7696731B-363D-4034-A127-C26DDADC2EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7696731B-363D-4034-A127-C26DDADC2EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7696731B-363D-4034-A127-C26DDADC2EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7696731B-363D-4034-A127-C26DDADC2EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CCCF83-49BF-4D57-BAA6-1E462E41C7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CCCF83-49BF-4D57-BAA6-1E462E41C7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CCCF83-49BF-4D57-BAA6-1E462E41C7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CCCF83-49BF-4D57-BAA6-1E462E41C7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F2FD25-B29F-4A90-9126-9922E1934CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F2FD25-B29F-4A90-9126-9922E1934CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F2FD25-B29F-4A90-9126-9922E1934CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F2FD25-B29F-4A90-9126-9922E1934CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
